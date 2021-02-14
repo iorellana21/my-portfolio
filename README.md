@@ -1,8 +1,6 @@
-# iorellana21.github.io
-Personal Portfolio
-
-### Resume
-* https://docs.google.com/document/d/1g8i3GbHZizs4mK3kwyoxvkBJ_ExEZeNlwgXboiq8c3s/edit?usp=sharing
+# Professional Portfolio
+## Resume
+* [Link](https://docs.google.com/document/d/1g8i3GbHZizs4mK3kwyoxvkBJ_ExEZeNlwgXboiq8c3s/edit?usp=sharing)
 
 ### Credit
 * [Bootstrap Starter Template](https://github.com/startbootstrap/startbootstrap-resume)
